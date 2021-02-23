@@ -1,6 +1,6 @@
 ### Darmawan Zulkifli
 
-I am a Software Engineer, Currently use Go, and React JS . Using the version control GIT, Dockerize the application and create the automation with shell script. Run the test and build the staging/production image using CI/CD. 
+I am Software Engineer. Currently use Go and React JS with testable code, PostgreSQL as database, using the version control GIT, also Dockerize the application and create an automation with shell script for run the test and build the production image using CI/CD.
 
 ### See also my profile
 
