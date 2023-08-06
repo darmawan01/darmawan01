@@ -1,4 +1,4 @@
-I am a Software Engineer. Currently Use Golang/NodeJS for Backend, ReactJS for Frontend, and Flutter for developing Mobile Apps. Working with Automation to speed up Build and releasing Product. Also has experience on maintaining server such as On Premise Server or Cloud Platform.
+Experienced Software Engineer and Team Player with a focus on high-quality, scalable, and maintainable code. Passionate about optimizing solutions for users and long-term company success. Always learning, embracing new technologies for cutting-edge implementations. Enthusiastic about assisting team members and collaborating on efficient and impactful software projects. Let's connect and create together!
 
 ### See also
 
